@@ -1,3 +1,8 @@
+###USAGE
+    import scipy.io
+    mat = scipy.io.loadmat('TDT2.mat')
+
+###Copyright
 Copyright (c) 2014 Yahoo! Inc.
 Copyrights licensed under the MIT License. See the accompanying LICENSE file for terms.
 Author: Amin Mantrach - amantrac at -  inc dot com - http://iridia.ulb.ac.be/~amantrac/
